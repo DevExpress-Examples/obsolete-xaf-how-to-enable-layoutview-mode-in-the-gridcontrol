@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Views>
+		<ListView ID="DomainObject1_ListView" EditMode="Editable" EditorTypeName="WinSample.Module.Win.LayoutViewGridListEditor" />
+	</Views>
+</Application>
