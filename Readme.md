@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [LayoutViewGridListEditor.cs](./CS/WinSample.Module.Win/LayoutViewGridListEditor.cs) (VB: [LayoutViewGridListEditor.vb](./VB/WinSample.Module.Win/LayoutViewGridListEditor.vb))
+* [Model.DesignedDiffs.xafml](./CS/WinSample.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinSample.Module.Win/Model.DesignedDiffs.xafml))
+<!-- default file list end -->
 # OBSOLETE - How to enable LayoutView mode in the GridControl in List Views
 
 
